@@ -55,6 +55,7 @@ let random = 0;
             document.getElementById('yoo2').style.display = 'none'; //텍스트 숨기기
             img.style.display = 'none'; //이미지 숨기기
             img2.style.display = 'none'; //이미지 숨기기
+            audio2.stop.pause();
         }
 
 
